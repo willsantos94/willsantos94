@@ -6,12 +6,14 @@
   
 ## **Principais linguagens e tecnologias** <h2>
 
+![icons8-amazon-web-services-48](https://github.com/willsantos94/willsantos94/assets/102034390/4c9c59a2-c0bf-4abd-8156-b2e43fa856cb)
+![icons8-linux-48](https://github.com/willsantos94/willsantos94/assets/102034390/f0ee9830-7e69-46df-90a1-36fab1d93562)
 ![icons8-python-48](https://github.com/willsantos94/willsantos94/assets/102034390/e867627e-ddde-415e-bff5-19d438d350f6)
 ![icons8-git-48](https://github.com/willsantos94/willsantos94/assets/102034390/eb2a7cc5-a7eb-45e1-8e69-9e1d0d74fd1b)
 ![icons8-kubernetes-48](https://github.com/willsantos94/willsantos94/assets/102034390/711ddd74-5e65-475c-a06f-df4bbed68071)
 ![icons8-docker-48](https://github.com/willsantos94/willsantos94/assets/102034390/583ede41-1b92-459a-a077-0873db56345d)
 ![icons8-terraform-48](https://github.com/willsantos94/willsantos94/assets/102034390/d79fef46-4e98-4b48-b1ef-62f1a7ca05ed)
-![icons8-amazon-web-services-48](https://github.com/willsantos94/willsantos94/assets/102034390/4c9c59a2-c0bf-4abd-8156-b2e43fa856cb)
+
 
 ## **Certificações** <h2>
   
