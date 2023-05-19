@@ -13,6 +13,7 @@
 ![icons8-kubernetes-48](https://github.com/willsantos94/willsantos94/assets/102034390/711ddd74-5e65-475c-a06f-df4bbed68071)
 ![icons8-docker-48](https://github.com/willsantos94/willsantos94/assets/102034390/583ede41-1b92-459a-a077-0873db56345d)
 ![icons8-terraform-48](https://github.com/willsantos94/willsantos94/assets/102034390/d79fef46-4e98-4b48-b1ef-62f1a7ca05ed)
+![icons8-jenkins-48](https://github.com/willsantos94/willsantos94/assets/102034390/68c360ef-4023-42a7-93a8-fe5a1020779d)
 
 
 ## **Certificações** <h2>
